@@ -1,0 +1,41 @@
+{
+
+    "font1": "Consolas",
+    "font2": "5Computers In Love",
+
+    "startup01":  "WARNING!\nThis game contains flashing lights, loud noises, and jumpscares.",
+
+    "Title01":  "A\nNight\nat\nThe\nRestaurant",
+    "Title02":  "Play",
+    "Title03":  "Hard Mode",
+    "Title04":  "Fangame by Ruthoranium\nModels by CoolioArt and UFMP\nGame based off 'Five Nights at Freddy's : Fredbear' by KidduTheMan",
+    "Title05":  "Fullscreen",
+    "Title06": "Hold down DEL to reset data.",
+    "Title07": "OUTDATED",
+    "Title08": "Settings",
+    "Title09": "Framerate",
+    "Title10": "VSYNC",   
+    "Title11": "Anti-Aliasing",
+    "Title12": "Skip Intro",
+    "Title13": "Languages",
+    "Title14": "Back",
+    "Title15": "Apply",
+    "Title16": "Enabled",
+    "Title17": "Disabled",
+    
+    "Intro_0": "< Press Enter >",
+    "Intro_1": "2017: Mike Schmidt turns 44 years old.",
+    "Intro_2": "Mike is still struggling with his past experiences as a night guard for one of Fazbear Entertainment's many restaurants.",
+    "Intro_3": "Despite Fazbear Entertainment going bankrupt and shutting down the year he was fired, the thought never left him. Even as he got older.",
+    "Intro_4": "The building of the location he guarded still stands, completely untouched.",
+    "Intro_5": "One night, curiosity finally consumes him, and he decides to explore the abandoned pizzeria.",
+    "Intro_6": "He heads straight for his office, and he notices a lever that he's never seen.",
+    "Intro_7": "Mike flips the lever without even thinking of it's importance, and suddenly the entire building comes back to life, as if it never shut down.",
+    "Intro_8": "However, the bright lights are instantly overwhelmed by a loud shattering of glass...",
+
+    "night_1": "Power Left: ",
+
+    "gameover0": "GAME OVER",
+    "gameover1": "Retry",
+    "gameover2": "Titlescreen"
+}
